@@ -1058,38 +1058,10 @@ a {
 .cid-sFzxmVl7J6 .mbr-text,
 .cid-sFzxmVl7J6 .mbr-section-btn {
   color: #353535;
+  text-align: left;
 }
-.cid-sFzyUE9AaP {
-  padding-top: 8rem;
-  padding-bottom: 9rem;
-  background-color: #fafafa;
-}
-@media (min-width: 1500px) {
-  .cid-sFzyUE9AaP .container {
-    max-width: 1400px;
-  }
-}
-.cid-sFzyUE9AaP .mbr-iconfont {
-  display: block;
-  font-size: 5rem;
-  color: #4479d9;
-  margin-bottom: 2rem;
-}
-.cid-sFzyUE9AaP .card-wrapper {
-  margin-top: 3rem;
-}
-.cid-sFzyUE9AaP .row {
-  justify-content: center;
-}
-.cid-sFzyUE9AaP .card-title,
-.cid-sFzyUE9AaP .iconfont-wrapper {
-  color: #000000;
-}
-.cid-sFzyUE9AaP .card-text {
-  color: #000000;
-}
-.cid-sFzyUE9AaP .mbr-section-title {
-  color: #000000;
+.cid-sFzxmVl7J6 .mbr-section-title {
+  text-align: left;
 }
 .cid-sFzz5E692j {
   padding-top: 8rem;
